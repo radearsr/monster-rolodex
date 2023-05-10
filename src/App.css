@@ -1,7 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Bigelow+Rules&display=swap");
+
 .App {
   text-align: center;
   margin: 0 auto;
   background: rgb(9,9,121);
   background: linear-gradient(90deg, rgba(9,9,121,1) 4%, rgba(36,231,166,1) 100%);
   min-height: 100vh;
+}
+
+.app-title {
+  margin: 0;
+  font-family: "Bigelow Rules", cursive;
+  font-size: 3rem;
+  padding-top: 2rem;
+  color: #00fff4;
 }
